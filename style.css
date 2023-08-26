@@ -1,0 +1,40 @@
+html{
+   background-color:rgba(0,0,0,0.2);
+   justify-content: center;
+   align-content: center;
+   display: flex;
+}
+.calculator{
+   background-color: white;
+   width: 200PX;
+   height: 300px;
+   margin: 120px;
+   padding: 20px;
+   border-radius: 20px;
+   box-shadow:  5px 5px 1px 0px rgba(0,0,0,0.08);
+}
+table,tr,td{
+   background-color: white;
+}
+#input{
+   width:170px;
+   text-align: end;
+   border-radius: 50px;
+   background-color: white;
+   padding:10px;
+   font-size: 20px;
+   margin-bottom:20px;
+   border:none;
+   box-shadow:inset 5px 5px 1px 0px rgba(0,0,0,0.08);
+
+}
+button{
+   border-radius: 50px;
+   background-color: white;
+   font-size: 15px;
+   padding:10px;
+   margin-left: 5px;
+   margin-bottom: 5px;
+   border:none;      
+   box-shadow: 5px 5px 1px 0px rgba(0,0,0,0.08);
+}
